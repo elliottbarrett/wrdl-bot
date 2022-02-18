@@ -6,7 +6,7 @@ I intended to keep it private, but have made it public as part of a demonstratio
 
 ## Compiling the C++
 
-I was too lazy to make a `makefile`, so if you'd like to compile the *C++* (on a Mac), run the following command...
+I was too tired to make a `makefile`, so if you'd like to compile the *C++* (on a Mac), run the following command...
 
 `clang++ -Wall -std=c++11 -O2 cpp-wordle.cpp -o cpp-wordle`
 
